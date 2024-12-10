@@ -9,8 +9,6 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.List;
 
-/*import static com.craftinginterpreters.lox.TokenType.*;*/
-
 
 public class Lox {
   private static boolean hadError = false;
